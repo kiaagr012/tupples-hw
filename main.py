@@ -1,0 +1,5 @@
+group1 = ('blue', 5, 'park','none')
+group2 = ('red', 6, 'home','none')
+group3 = ('green', 5, 'school','bronze')
+group4 = ('yellow', 9, 'mall','gold')
+group5 = ('golden', 5, 'library','silver')
